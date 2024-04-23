@@ -18,7 +18,7 @@ const Contact = () => {
             <div className='max-w-2xl mx-auto p-4 relative z-10'>
                 <h1 className='text-lg md:text-7xl text-center font-sans font-bold mb-8 text-white'>Contact Us</h1>
                 <div className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center">
-                    <p className='text-bold'>If you have any questions or inquiries, please don't hesitate to get in touch with us:</p>
+                    <p className='text-bold'>If you have any questions or inquiries, please do not hesitate to get in touch with us:</p>
                     <p className='text-bold'><strong>Address:</strong> 123 Music St, Cityville, State, Country</p>
                     <p className='text-bold'><strong>Email:</strong> info@musicschool.com</p>
                     <p className='text-bold'><strong>Phone:</strong> +123-456-7890</p>
